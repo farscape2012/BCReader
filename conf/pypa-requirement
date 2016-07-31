@@ -1,5 +1,4 @@
-pytesseract
-requests
 Pillow
 pyocr
-
+requests
+tornado
